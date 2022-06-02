@@ -9,3 +9,6 @@ Feel free to either start from scratch or use your (or someone else's) `User` cl
 3. Override the `add_post` method for `FreeUser` so that an instance of `FreeUser` is only able to make two posts.
 4. In the `runner.py` file, import `FreeUser` and `PremiumUser` and create at least one instance of each.
 5. Add tests.
+
+
+```~~~```
